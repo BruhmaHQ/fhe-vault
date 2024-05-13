@@ -1,8 +1,9 @@
 # 🏛️ FHE Vault
 
-## On-Chain decentralized vault proteced by FHE based Multi Factor
+## On-Chain decentralized vault protected by FHE based Multi Factor
 
 **Deployed Links**
+
 [Video Demo](https://fluf-id.vercel.app/id)
 
 [FHE Vault](https://fhe-vault-client.vercel.app/)
