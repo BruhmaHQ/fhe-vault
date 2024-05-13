@@ -13,7 +13,7 @@
 **Table of Contents**
 -  Description
 - Installation
-- UX Flow
+- UX Flow and Screenshots
 - Architecture Flow
 - Use of fhEVM
 - Future Goals
@@ -79,6 +79,9 @@ npm run dev
     -   They can now securely view and manage their encrypted data stored within the vault.
 
 ### Authenticator
+![ID Creation](/demo/id-create.png)
+![pin](/demo/id-otp.png)
+![daap otp](/demo/id-verify.png)
 
 ### FHE Vault
 
