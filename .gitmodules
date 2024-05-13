@@ -7,3 +7,6 @@
 [submodule "fluf-id-backend"]
 	path = fluf-id-backend
 	url = https://github.com/Developer-R-7/fluf-id-backend
+[submodule "fluf-id-contracts"]
+	path = fluf-id-contracts
+	url = https://github.com/pratham-bhatnagar/fluf-id-contracts
