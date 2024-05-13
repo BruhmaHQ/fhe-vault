@@ -6,7 +6,7 @@
 
 [Video Demo](https://fluf-id.vercel.app/id)
 
-[Additional Documentation]([https://fluf-id.gitbook.io/docs](https://fluf-id.gitbook.io/docs/solutions/2fa-onchain-auth))
+[Additional Documentation]([https://fluf-id.gitbook.io/docs/solutions/2fa-onchain-auth])
 
 [FHE Vault](https://fhe-vault-client.vercel.app/)
 
