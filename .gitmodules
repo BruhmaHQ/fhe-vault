@@ -1,0 +1,6 @@
+[submodule "fluf-id-client"]
+	path = fluf-id-client
+	url = https://github.com/lakshya-dhariwal/fluf-id-client.git
+[submodule "fhe-vault-client"]
+	path = fhe-vault-client
+	url = https://github.com/lakshya-dhariwal/fhe-vault-client.git
