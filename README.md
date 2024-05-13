@@ -1,6 +1,6 @@
 # 🏛️ FHE Vault
 
-## On-Chain decentralized vault protected by FHE based Multi Factor
+## On-Chain vault protected by FHE based Two Factor Authentication
 
 **Links**
 
