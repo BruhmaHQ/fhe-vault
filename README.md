@@ -4,7 +4,7 @@
 
 **Links**
 
-[Video Demo](https://fluf-id.vercel.app/id)
+[Video Demo](https://vimeo.com/946295833?share=copy)
 
 [Additional Documentation](https://fluf-id.gitbook.io/docs/solutions/2fa-onchain-auth)
 
